@@ -1,0 +1,13 @@
+{
+    "wallet": {
+        "name": "T3XLA NODE",
+        "mnemonic": "Voici votre Mnemonic. Notez le bien et garder le en lieu sur. Vous pouvez également sauvegarder votre fichier de porte feuille.",
+        "address": "Votre Address de portefeuille",
+        "password": "Mot de passe de portefeuille",
+        "passwordRepeat": "Confirmer le mote de passe",
+        "save": "Enregistrer le Portefeuille"
+    }
+
+ 
+
+}

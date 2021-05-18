@@ -1,0 +1,12 @@
+{
+    "wallet": {
+        "name": "T3XLA",
+        "mnemonic": "Este es tu mnemónico. Escríbalo en un lugar seguro y no lo pierda. También puede hacer una copia de seguridad de su archivo de billetera cifrado con contraseña ubicado en la carpeta t3xlaData",
+        "address":"Tu dirección de billetera",
+        "password": "Contraseña de billetera",
+        "passwordRepeat": "Confirmar Contraseña",
+        "save":"Confirmar guardar billetera"
+    }
+
+
+}

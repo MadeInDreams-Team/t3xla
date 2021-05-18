@@ -1,0 +1,17 @@
+{
+    "wallet": {
+        "name": "T3XLA",
+        "mnemonic": "This is your Mnemonic. Write it down somewhere safe and don't loose it. You can also backup your password encrypted wallet file located in the t3xlaData folder.",
+        "address": "Your wallet Address",
+        "password": "Wallet Password",
+        "passwordRepeat": "Confirm Password",
+        "save": "Save Wallet"
+
+    }
+
+
+
+
+
+
+}
